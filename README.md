@@ -1,4 +1,4 @@
-# i2i Academy - Applied Data Science - Assignment 2
+# i2i Academy - Applied Data Science
 
 This repository contains an end-to-end Machine Learning classification pipeline developed as part of the i2i Academy Training Program.
 
